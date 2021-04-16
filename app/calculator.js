@@ -20,10 +20,16 @@ function divide(a,b) {
      }
 }
 
+function ceros(a,b){
+     a=0;
+     b=0;
+}
+
 module.exports = {
      add,
      minus,
      multiply,
-     divide
+     divide,
+     ceros
 }
 
