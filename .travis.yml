@@ -10,5 +10,5 @@ addons:
 script:
  - npm run cover 
  - sonar-scanner -Dsonar.login=$SONAR_TOKEN -Dsonar.organization=juandev-47 -Dsonar.projectKey=juanDev-47_prueba -Dsonar.sources='./app' -X
- after_success:
+after_success:
  - npm run coveralls
