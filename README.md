@@ -2,6 +2,12 @@
 
 Travis-CI: [![Build Status](https://travis-ci.org/juanDev-47/prueba.svg?branch=main)](https://travis-ci.org/juanDev-47/prueba)
 
+           [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=juanDev-47_prueba&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=juanDev-47_prueba)
+
+           [![Bugs](https://sonarcloud.io/api/project_badges/measure?project=juanDev-47_prueba&metric=bugs)](https://sonarcloud.io/dashboard?id=juanDev-47_prueba)
+
+           [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juanDev-47_prueba&metric=alert_status)](https://sonarcloud.io/dashboard?id=juanDev-47_prueba)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
