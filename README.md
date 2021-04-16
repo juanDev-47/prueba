@@ -8,6 +8,8 @@ Travis-CI: [![Build Status](https://travis-ci.org/juanDev-47/prueba.svg?branch=m
 
            [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=juanDev-47_prueba&metric=alert_status)](https://sonarcloud.io/dashboard?id=juanDev-47_prueba)
 
+Coverall: [![Coverage Status](https://coveralls.io/repos/github/juanDev-47/prueba/badge.svg?branch=main)](https://coveralls.io/github/juanDev-47/prueba?branch=main)           
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
